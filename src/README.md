@@ -41,8 +41,8 @@ A small helper class that provides a clean `readInt()` method for reading intege
 
 1. Clone the repository
 ```bash
-   git clone https://github.com/YOUR_USERNAME/Java_Collection.git
-   cd Java_Collection
+   git clone https://github.com/joshdr251/java-collection.git
+   cd java-collection
 ```
 
 2. Compile and run a program of your choice:
